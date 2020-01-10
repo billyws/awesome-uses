@@ -810,6 +810,26 @@ const pages = [
       'JavaScript',
     ],
   },
+  
+  {
+    name: 'Billy Somers',
+    description: 'Web Developer',
+    url: 'https://bsomers.com/uses',
+    twitter: '@billywsomers',
+    emoji: '🔥',
+    country: 'pg',
+    computer: 'windows',
+    phone: 'android',
+    tags: [
+      'Developer',
+      'Designer',
+      'Back End',
+      'Front End',
+      'JavaScript',
+    ],
+  },
+  
+  
   {
     name: 'James Mills',
     description:
